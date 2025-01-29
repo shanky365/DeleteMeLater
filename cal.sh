@@ -6,6 +6,5 @@ a-b
 
 Multiply --> Added From Multiply Branch
 a*b
-a-b
-a+b
+x=a*b
 
